@@ -13,15 +13,15 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Replaces Google Dialer with the HyperOS dialer for a call experience that matches the rest of the system
 - Choose your options with the volume keys during installation
 
-## 📋 Requirements
+## Requirements
 - HyperOS Global ROM
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Dialer/releases/latest).
 2. If an older version is installed, remove it and reboot first.
 3. Flash the zip in Magisk / KernelSU and choose your options with the volume keys.
@@ -32,8 +32,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Dialer/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Dialer/issues)
 
 </div>
